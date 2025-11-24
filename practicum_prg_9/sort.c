@@ -1,3 +1,4 @@
+// "пузырьковая" сортировка
 #include <stdio.h>
 
 void bubble_sort(int size, int arr[size]);
