@@ -1,1 +1,1 @@
-# Proggraming_course_1
+# Proggraming course 1
