@@ -1,16 +1,16 @@
-# Proggraming course 1
+# Proggraming Course 1
 
-                        .,::%:,.
-                      ,d:iiIISSIii:.
-                     jiiISISS$$$SSii:
-                     `"-:iIISS$$$SSIi:
-                   _,j`j,:jiSSS$$$SSIi
-                  dIS`jS,-o4$$$$$$$SIS
-    _.,-  ,-     jI7,:SI o  SS$$S$$SS`
-    $$   .    ,u IS: ,S$$%y$$$$$$$S7`                                      _.,,..._
-    $I   : .,`?: SS: ?$$-`"j``^?$7.                                     ,uIISSSSSSIIi.
-    $i    . `"   ?$$, ?$$?S$b,-'                                       dSS$$$SSiIS$SIIb
-    $:     \   ,  o47' -  'o-                                         dSS$$$SS?iiIS$SII:
+                        .,::%:,.          _____________________________
+                      ,d:iiIISSIii:.      | OMG what happened to him? |
+                     jiiISISS$$$SSii:     |___________________________|
+                     `"-:iIISS$$$SSIi:   /
+                   _,j`j,:jiSSS$$$SSIi  /
+                  dIS`jS,-o4$$$$$$$SIS     __________________________
+    _.,-  ,-     jI7,:SI o  SS$$S$$SS`     | he was trying to solve |
+    $$   .    ,u IS: ,S$$%y$$$$$$$S7`      | the pointers problem...|      _.,,..._
+    $I   : .,`?: SS: ?$$-`"j``^?$7.        |________________________|   ,uIISSSSSSIIi.
+    $i    . `"   ?$$, ?$$?S$b,-'                       |               dSS$$$SSiIS$SIIb
+    $:     \   ,  o47' -  'o-                          |              dSS$$$SS?iiIS$SII:
     $i      /,u\     .                                               .S$$$$$$SL::iISSSSi
     $$ '.,/' ?$7'`'  :i: :                         ,-:;i:o,.         :s$$$$?$$SISL :iIS:
     $$:       ?      i$k.::                       diiIISSIIii,        ?S$? o 7$$Si .:i?      _
