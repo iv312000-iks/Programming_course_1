@@ -1,4 +1,4 @@
-# Proggraming Course 1
+# Программирование первый курс
 
                         .,::%:,.          _____________________________
                       ,d:iiIISSIii:.      | OMG what happened to him? |
@@ -42,3 +42,23 @@
                              ..::..       '"    ?ISSSIIS$$   ..::...
                                 ..:::...  ..::.. ''  ''^"' ..::;...
                                    ...::::....        ..:::.....
+
+# Навигация
+
+[Лабораторная работа №1](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_1)
+
+[Лабораторная работа №2](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_2)
+
+[Лабораторная работа №3](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_3)
+
+[Лабораторная работа №4](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_4)
+
+[Лабораторная работа №5](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_5)
+
+[Лабораторная работа №6](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_6)
+
+[Лабораторная работа №7](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_7)
+
+[Лабораторная работа №8](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_8)
+
+[Лабораторная работа №9](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_9)
