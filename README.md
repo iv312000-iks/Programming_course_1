@@ -45,13 +45,21 @@
 
 # Навигация
 
+Тема: Ввод с клавиатуры и условия
+
 [Лабораторная работа №1](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_1)
+
+Тема: Циклы
 
 [Лабораторная работа №2](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_2)
 
 [Лабораторная работа №3](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_3)
 
+Тема: Битовые операции
+
 [Лабораторная работа №4](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_4)
+
+Тема: Массивы. Строки. Матрицы
 
 [Лабораторная работа №5](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_5)
 
@@ -59,6 +67,16 @@
 
 [Лабораторная работа №7](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_7)
 
+Тема: Указатели. Динамические массивы. Модель памяти. Виртуальная память
+
 [Лабораторная работа №8](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_8)
 
+Тема: Git
+
 [Лабораторная работа №9](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_9)
+
+Тема: Структуры
+
+[Лабораторная работа №10](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_10)
+
+![alt text](photo_2025-12-19_09-49-49.jpg)

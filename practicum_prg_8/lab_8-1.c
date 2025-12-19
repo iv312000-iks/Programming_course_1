@@ -41,7 +41,6 @@ int main() {
     return 0;
 }
 
-// выделение памяти под матрицу
 int** create_matrix(int rows, int cols) {
     int **matrix = malloc(rows * sizeof(int*));
     for(int i = 0; i < rows; i++) {
@@ -50,7 +49,6 @@ int** create_matrix(int rows, int cols) {
     return matrix;
 }
 
-// освобождение памяти
 void free_matrix(int **matrix, int rows) {
     for(int i = 0; i < rows; i++) {
         free(matrix[i]);
@@ -58,16 +56,14 @@ void free_matrix(int **matrix, int rows) {
     free(matrix);
 }
 
-// заполнение мтарицы
 void fill_random(int **matrix, int rows, int cols) {
     for(int i = 0; i < rows; i++) {
         for(int j = 0; j < cols; j++) {
-            matrix[i][j] = rand() % 21 - 10; // от -10 до 10
+            matrix[i][j] = rand() % 21 - 10;
         }
     }
 }
 
-// вывод матрицы
 void print_matrix(int **matrix, int rows, int cols) {
     for(int i = 0; i < rows; i++) {
         for(int j = 0; j < cols; j++) {
@@ -78,7 +74,6 @@ void print_matrix(int **matrix, int rows, int cols) {
     printf("\n");
 }
 
-// умножкние матриц B * E = D
 int** multiply(int **B, int **E, int m, int k, int n) {
     int **D = create_matrix(m,n);
     for(int i = 0; i < m; i++) {
@@ -92,11 +87,6 @@ int** multiply(int **B, int **E, int m, int k, int n) {
     return D;
 }
 
-// поиск столбца с наиб суммой отриц
-
-// для каждого слотбца j нужно обнулить сумму, дальше проходит по
-// всем строкам i если элемент отриц то он добавляется к сумме
-// далее столбцы сравниваются и запоминается столбец с максимальной суммой
 int find_max_neg_col(int **D, int m, int n) {
     int max_sum = -1000;
     int max_col = 0;
@@ -115,8 +105,6 @@ int find_max_neg_col(int **D, int m, int n) {
     return max_col;
 }
 
-// сортировка столбца по убыванию
-// бабл сорт
 void sort_col(int **D, int m, int col) {
     for(int i = 0; i < m - 1; i++) {
         for(int j = 0; j < m - i - 1; j++) {
