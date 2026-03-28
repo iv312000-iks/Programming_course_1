@@ -79,4 +79,16 @@
 
 [Лабораторная работа №10](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_10)
 
+Тема: Многофайловый проект. Библиотеки
+
+[Лабораторная работа №12](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_12)
+
+Тема: Системы сборки Make и CMake
+
+[Лабораторная работа №13](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_13)
+
+Тема: Связанные списки: Односвязные, Многосвязные и Циклические
+
+[Лабораторная работа №14](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_14)
+
 ![alt text](photo_2025-12-19_09-49-49.jpg)
