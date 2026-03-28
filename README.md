@@ -90,3 +90,23 @@
 Тема: Связанные списки: Односвязные, Многосвязные и Циклические
 
 [Лабораторная работа №14](https://github.com/iv312000-iks/Programming_course_1/tree/main/practicum_prg_14)
+
+                   esc         F1      F2     F3     F4     F5     F6    F7
+
+                    +       !       @      #      $      %      ^      $
+                    &       1       2      3      4      5      6      7
+                                     .,d?-]
+                                  ,u$%p%S?'        ,y%]
+                               ,u$$$Ii:-'    _.ru$p,._;     T      Y      U
+                  ->:       ,u$$Ii:.  _.,uS$$SSI?ISI?'
+                         ,u$$$?:. ,d$$$$S$$SIii:-'
+                     _, d$$Si:-  j$$$S7iSi:;:-   D     F       G      H      J
+                   ,p: d$$?iL.  j$$I7ili:.'
+                 ,d$: j$Si;-  ,d$SIiil?.     _.,.__.,yo. -" .
+               .d$7: j$Si:.  j$$I?i:j:-   ,d$$$$SSIiISSiL\o,      V       B
+               S$I:-j$S?:-  j$SI?i:i:-  ,d$$$SI?SSi:ili:"'
+              i$S:-j$S?:.,d$$I?::.:.  ,$$$SSIii::--
+              S$I:j$$?:,d$7I$?::-- ,d$$$SIii:--         space
+              $SijS$Sid7jSI$S:-,d$$S$SIi::-
+             jSS$?jS$$7:dSi$Spd$$$$S?Ii::
+             $$$7jS$$:iISS$$$S?iIS$iIi::-
